@@ -1,7 +1,7 @@
 # This is a generated file; do not edit or check into version control.
-flutter_plugin_android_lifecycle=/home/sumit/.pub-cache/hosted/pub.dev/flutter_plugin_android_lifecycle-2.0.16/
+flutter_plugin_android_lifecycle=/home/sumit/.pub-cache/git/flutter_plugin_android_lifecycle-cb008728f8cd074baa92c09bce4f18456eacf5ff/
 integration_test=/home/sumit/softwares/flutter/packages/integration_test/
 local_auth=/home/sumit/StudioProjects/packages/packages/local_auth/local_auth/
-local_auth_android=/home/sumit/.pub-cache/hosted/pub.dev/local_auth_android-1.0.34/
-local_auth_ios=/home/sumit/.pub-cache/hosted/pub.dev/local_auth_ios-1.1.4/
-local_auth_windows=/home/sumit/.pub-cache/hosted/pub.dev/local_auth_windows-1.0.10/
+local_auth_android=/home/sumit/.pub-cache/git/local_auth_android-9a5dfda7cfa9e92d63b18a5718976f125aae010c/
+local_auth_darwin=/home/sumit/.pub-cache/git/local_auth_darwin-72c05a0e5e020a7496b55b363adb15e899631093/
+local_auth_windows=/home/sumit/.pub-cache/git/local_auth_windows-8b6356f8a408db68f1ad9af1b07eab8362adf8cf/
