@@ -76,8 +76,7 @@ void main() {
 }
 
 class MockLocalAuthPlatform extends Mock
-    with MockPlatformInterfaceMixin
-    implements LocalAuthPlatform {
+    implements LocalAuthPlatform, MockPlatformInterfaceMixin {
   MockLocalAuthPlatform() {
     throwOnMissingStub(this);
   }
